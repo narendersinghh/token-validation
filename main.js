@@ -7,5 +7,6 @@ if(allowedSites.includes(domainName) ){
   console.log(domainName);
 }
 else{
+  console.log(domainName);
   document.body.innerHTML = "";
 }
