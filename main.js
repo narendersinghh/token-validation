@@ -1,4 +1,4 @@
-let allowedSites = ['https://dheerajarora1997.github.io','https://token-validation.pages.dev','https://omsaipacker.com', 'https://demo3.narendersingh.com','https://www.fundootutor.com','http://fundootutor.com']
+let allowedSites = ['https://dheerajarora1997.github.io','https://token-validation.pages.dev','https://omsaipacker.com', 'https://demo3.narendersingh.com','https://www.fundootutor.com','https://fundootutor.com']
 
 
 let domainName = document.location.origin;
